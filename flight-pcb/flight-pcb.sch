@@ -328,60 +328,60 @@ Wire Wire Line
 $Comp
 L Mechanical:MountingHole_Pad H1
 U 1 1 63167F04
-P 1400 1700
-F 0 "H1" H 1500 1703 50  0000 L CNN
-F 1 "MountingHole_Pad" H 1500 1658 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.5mm_Pad" H 1400 1700 50  0001 C CNN
-F 3 "~" H 1400 1700 50  0001 C CNN
-	1    1400 1700
+P 5850 4750
+F 0 "H1" H 5950 4753 50  0000 L CNN
+F 1 "MountingHole_Pad" H 5950 4708 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 5850 4750 50  0001 C CNN
+F 3 "~" H 5850 4750 50  0001 C CNN
+	1    5850 4750
 	1    0    0    -1  
 $EndComp
-Text GLabel 2500 1800 2    50   Input ~ 0
+Text GLabel 6950 4850 2    50   Input ~ 0
 GND
 Wire Wire Line
-	1400 1800 1700 1800
+	5850 4850 6150 4850
 $Comp
 L Mechanical:MountingHole_Pad H2
 U 1 1 63181C54
-P 1700 1700
-F 0 "H2" H 1800 1703 50  0000 L CNN
-F 1 "MountingHole_Pad" H 1800 1658 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.5mm_Pad" H 1700 1700 50  0001 C CNN
-F 3 "~" H 1700 1700 50  0001 C CNN
-	1    1700 1700
+P 6150 4750
+F 0 "H2" H 6250 4753 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6250 4708 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 6150 4750 50  0001 C CNN
+F 3 "~" H 6150 4750 50  0001 C CNN
+	1    6150 4750
 	1    0    0    -1  
 $EndComp
-Connection ~ 1700 1800
+Connection ~ 6150 4850
 Wire Wire Line
-	1700 1800 2000 1800
+	6150 4850 6450 4850
 $Comp
 L Mechanical:MountingHole_Pad H3
 U 1 1 63181F85
-P 2000 1700
-F 0 "H3" H 2100 1703 50  0000 L CNN
-F 1 "MountingHole_Pad" H 2100 1658 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.5mm_Pad" H 2000 1700 50  0001 C CNN
-F 3 "~" H 2000 1700 50  0001 C CNN
-	1    2000 1700
+P 6450 4750
+F 0 "H3" H 6550 4753 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6550 4708 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 6450 4750 50  0001 C CNN
+F 3 "~" H 6450 4750 50  0001 C CNN
+	1    6450 4750
 	1    0    0    -1  
 $EndComp
-Connection ~ 2000 1800
+Connection ~ 6450 4850
 Wire Wire Line
-	2000 1800 2300 1800
+	6450 4850 6750 4850
 $Comp
 L Mechanical:MountingHole_Pad H4
 U 1 1 63182370
-P 2300 1700
-F 0 "H4" H 2400 1703 50  0000 L CNN
-F 1 "MountingHole_Pad" H 2400 1658 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.5mm_Pad" H 2300 1700 50  0001 C CNN
-F 3 "~" H 2300 1700 50  0001 C CNN
-	1    2300 1700
+P 6750 4750
+F 0 "H4" H 6850 4753 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6850 4708 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 6750 4750 50  0001 C CNN
+F 3 "~" H 6750 4750 50  0001 C CNN
+	1    6750 4750
 	1    0    0    -1  
 $EndComp
-Connection ~ 2300 1800
+Connection ~ 6750 4850
 Wire Wire Line
-	2300 1800 2500 1800
+	6750 4850 6950 4850
 $Comp
 L Connector_Generic:Conn_01x07 J7
 U 1 1 62F8C126
