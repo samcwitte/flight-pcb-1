@@ -1,3 +1,4 @@
+This is for 10 of each part, pricing may be different depending on time and distributor.
 | Quantity | Part Number             | Manufacturer Part Number | Description                       | Unit Price |
 |----------|-------------------------|--------------------------|-----------------------------------|------------|
 | 10       | 1727-3853-1-ND          | PMEG2005EH,115           | DIODE SCHOTTKY 20V 500MA SOD123F  | $0.334     |
